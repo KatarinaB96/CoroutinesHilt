@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutinesHilt</string>
+    <string name="success_message">This is a CAT</string>
+    <string name="pull_to_refresh"> (NOTE: Pull to refresh)</string>
+</resources>
